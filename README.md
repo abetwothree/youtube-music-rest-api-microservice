@@ -1,4 +1,4 @@
-# youtube-music-rest-api-microservice
+# YouTube Music Rest API Microservice
 Wrapper around the YouTube Music API package to create a REST API microservice using Express.
 
 
