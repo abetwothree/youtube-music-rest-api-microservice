@@ -1,5 +1,5 @@
 # YouTube Music Rest API Microservice
-Wrapper around the YouTube Music API package to create a REST API microservice using Express.
+Wrapper around the [YouTube Music API](https://github.com/emresenyuva/youtube-music-api) package to create a REST API microservice using Express.
 
 
 ## Using
