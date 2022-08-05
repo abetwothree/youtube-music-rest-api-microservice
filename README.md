@@ -17,7 +17,7 @@ That should start the server to the port chose in the .env file.
 
 Assuming your port is 3000, if you go to `localhost:3000` you should see it say "Hello World".
 
-That's it! You can then use the other endpoints to get YouTube Music API data from the unofficial API.
+That's it! You can then use the other endpoints found in index.js to get YouTube Music API data from the unofficial API.
 
 You can run this locally or deploy to your favorite hosting provider.
 
