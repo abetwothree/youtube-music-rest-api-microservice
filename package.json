@@ -24,6 +24,6 @@
     "morgan": "^1.10.0",
     "rootrequire": "^1.0.0",
     "supervisor": "^0.12.0",
-    "youtube-music-api": "^1.0.6"
+    "youtube-music-api": "https://github.com/abetwothree/youtube-music-api.git"
   }
 }
