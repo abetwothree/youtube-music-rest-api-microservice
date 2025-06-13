@@ -20,7 +20,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^5.0.0",
-    "helmet": "^5.1.1",
+    "helmet": "^8.0.0",
     "morgan": "^1.10.0",
     "rootrequire": "^1.0.0",
     "supervisor": "^0.12.0",
